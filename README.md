@@ -6,10 +6,10 @@
 Este repositório contém os trabalhos práticos realizados nos cursos de front-end da Alura. Cada curso possui sua própria pasta, onde você encontrará os arquivos HTML e CSS correspondentes aos projetos desenvolvidos.
 
 ### Formações
-- [A partir do zero: HTML e CSS para projetos web](https://cursos.alura.com.br/formacao-html-css): 6 Cursos.
-    - [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags)
+- **A partir do zero: HTML e CSS para projetos web:** 6 Cursos.
+    - [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/1-%20HTML%20e%20CSS%20-%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags)
         - **Carga Horária:** 8hs;
-        - **Progresso:** Em andamento.
+        - **Progresso:** Concluído✔️
 
 ---
 ### Ferramentas e tecnologias utilizadas:

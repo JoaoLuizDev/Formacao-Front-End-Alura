@@ -5,6 +5,7 @@
 
 Este repositório contém os trabalhos práticos realizados nos cursos de front-end da Alura. Cada curso possui sua própria pasta, onde você encontrará os arquivos HTML e CSS correspondentes aos projetos desenvolvidos.
 
+---
 ### Formações
 
 | FORMAÇÃO | Curso | Carga Horária | Progresso | Data Conclusão |

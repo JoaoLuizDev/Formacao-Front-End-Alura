@@ -15,3 +15,16 @@ https://cursos.alura.com.br/formacao-html-css
 https://cursos.alura.com.br/formacoes#front-end
 
 https://techguide.sh/pt-BR/path/front-end/
+
+## Cores
+https://coolors.co/
+
+https://color.adobe.com/pt/create/color-wheel
+
+https://colorhunt.co/
+
+https://m2.material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=6002ee
+
+
+## Indicações de leitura
+https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags/task/147890

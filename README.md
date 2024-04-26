@@ -11,8 +11,7 @@ Este repositório contém os trabalhos práticos realizados nos cursos de front-
 | FORMAÇÃO | Curso | Carga Horária | Progresso | Data Conclusão |
 |----------|-------|:---------------:|:-----------:|:----------------:|
 | **A partir do zero: HTML e CSS para projetos web** | [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/1-%20HTML%20e%20CSS%20-%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags) | 8hs | ✔️ | 24/04/2024 |
-| | [HTML e CSS:Classes, posicionamento e Flexbox](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/2-%20HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox)
- | 8hs | ✔️ | 25/04/2024 |
+| | [HTML e CSS:Classes, posicionamento e Flexbox](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/2-%20HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox) | 8hs | ✔️ | 25/04/2024 |
 
 ---
 ### Ferramentas e tecnologias utilizadas:

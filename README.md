@@ -1,9 +1,12 @@
-# Formação Front-End - Alura
+<h1 align="center"> Formação Front-End - Alura </h1>
 
 ---
 ### Repositório de Cursos Front-end
 
 Este repositório contém os trabalhos práticos realizados nos cursos de front-end da Alura. Cada curso possui sua própria pasta, onde você encontrará os arquivos HTML e CSS correspondentes aos projetos desenvolvidos.
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 ---
 ### Formações

@@ -20,7 +20,11 @@ Nesta etapa, foi acrescentado um menu no header, e alterado os botões em relaç
 **Tela do wireframe:**
 
 <p align="center">
-    <img src="https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/blob/main/1-%20HTML%20e%20CSS%20-%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags/imagens/tela%20figma.png" alt="Wireframe do Figma">
+    <img src="" alt="Wireframe do Figma - página inicial">
+</p>
+
+<p align="center">
+    <img src="" alt="Wireframe do Figma - página Sobre Mim">
 </p>
 
 ---

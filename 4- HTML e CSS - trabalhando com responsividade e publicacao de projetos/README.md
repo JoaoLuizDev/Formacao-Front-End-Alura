@@ -40,4 +40,5 @@ Nesta etapa, o foco foi a responsividade. O código que será usado de partida �
 </p>
 
 
-
+## Deploy
+**link:** https://formacao-front-end-alura.vercel.app/

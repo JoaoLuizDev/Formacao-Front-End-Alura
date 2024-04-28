@@ -21,11 +21,11 @@ Ao final do curso, foi proposto uma atividade para que o aluno escolhesse uma pa
 **Tela do wireframe:**
 
 <p align="center">
-    <img src="/3- HTML e CSS - cabeçalho, footer e variáveis CSS/imagens/tela inicial - print do figma.png" alt="Wireframe do Figma - página inicial">
+    <img src="/3- HTML e CSS - cabeçalho, footer e variáveis CSS/imagens/1 - tela inicial - print do figma.png" alt="Wireframe do Figma - página inicial">
 </p>
 
 <p align="center">
-    <img src="/3- HTML e CSS - cabeçalho, footer e variáveis CSS/imagens/tela sobre mim - print do figma.png" alt="Wireframe do Figma - página Sobre Mim">
+    <img src="/3- HTML e CSS - cabeçalho, footer e variáveis CSS/imagens/1 - tela sobre mim - print do figma.png" alt="Wireframe do Figma - página Sobre Mim">
 </p>
 
 ---

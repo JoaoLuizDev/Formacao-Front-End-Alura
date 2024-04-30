@@ -25,7 +25,7 @@ Nesta etapa, o foco foi a responsividade. O código que será usado de partida �
 - Entender a diferença de medidas absolutas e relativas.
 
 ---
-<h1 align="center">Conclusão</h1> 
+<h1 align="center">Visualizar o Projeto Online</h1> 
 
 <p align="center">
     <img src="/4- HTML e CSS - trabalhando com responsividade e publicacaoo de projetos/imagens/3 - tela inicial - projeto final.png" alt="tela inicial">

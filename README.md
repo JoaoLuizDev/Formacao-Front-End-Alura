@@ -17,10 +17,9 @@ Este repositório contém os trabalhos práticos realizados nos cursos de front-
 | | [HTML e CSS:Classes, posicionamento e Flexbox](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/2-%20HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox) | 8hs | ✔️ | 25/04/2024 |
 | | [HTML e CSS: cabeçalho, footer e variáveis CSS](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/3-%20HTML%20e%20CSS%20-%20cabe%C3%A7alho%2C%20footer%20e%20vari%C3%A1veis%20CSS) | 6hs | ✔️ | 27/04/2024 |
 | | [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/4-%20HTML%20e%20CSS%20-%20trabalhando%20com%20responsividade%20e%20publica%C3%A7%C3%A3o%20de%20projetos) | 6hs | ✔️ | 28/04/2024 |
-| | [HTML e CSS - praticando HTMLCSS](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/5-%20HTML%20e%20CSS%20-%20praticando%20HTMLCSS) | 8hs | ✔️ | 02/05/2024 |
-| | [HTML e CSS: cabeçalho, footer e variáveis CSS](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/3-%20HTML%20e%20CSS%20-%20cabe%C3%A7alho%2C%20footer%20e%20vari%C3%A1veis%20CSS) | 6hs | ✔️ | 27/04/2024  |
-| | [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/4-%20HTML%20e%20CSS%20-%20trabalhando%20com%20responsividade%20e%20publicacao%20de%20projetos) | 6hs | ✔️ | 28/04/2024 |
-| | [HTML e CSS - praticando HTMLCSS](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/5-%20HTML%20e%20CSS%20-%20praticando%20HTMLCSS) | 8hs | 🕛 |  |
+| | [HTML e CSS - praticando HTML e CSS](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/5-%20HTML%20e%20CSS%20-%20praticando%20HTMLCSS) | 8hs | ✔️ | 02/05/2024 |
+| | [HTML e CSS: responsividade com mobile-first]() | 12hs | 🕛 | |
+
 
 Legenda:  
 🕛 - Em andamento  

@@ -1,5 +1,3 @@
-https://vercel.com/joao-luizs-projects-3c21440e/formacao-front-end-alura-curso-5
-
 <h1 align="center">Curso 6</h1> 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=orange&style=for-the-badge)
@@ -18,7 +16,7 @@ Este diretório foi criado para armazenar o projeto desenvolvido durante o Curso
 O projeto trabalha com o conceito de mobile-first. Por meio dele, serão construídas páginas do AluraBooks. No Figma, foram disponibilizados três tipos de tamanho de layout: o 428, o 1024 e o 1728, que seriam os de mobile, tablet e desktop, respectivamente. 
 
 
-**Link do wireframe no Figma:** https://www.figma.com/file/KIe0hOUvZlMeQJDib5zsSH/AluraBooks-%7C-Responsividade-com-Mobile-First-(Copy)?type=design&mode=design&t=Wb9LnPweaW6HD2e0-1
+**Link do wireframe no Figma:** https://www.figma.com/file/KIe0hOUvZlMeQJDib5zsSH/curso-6?type=design&node-id=37%3A94&mode=design&t=FejVIK4synTuUBBW-1
 
 ---
 ### Objetivo

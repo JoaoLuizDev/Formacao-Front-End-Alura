@@ -1,0 +1,36 @@
+.faixa {
+    background-color: var(--branco);
+}
+
+.topicos {
+    background: var(--azul-degrade);
+    text-align: center;
+    padding: 1.5rem 1rem;
+}
+
+.topicos__titulo {
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+    color: var(--branco);
+    font-weight: 300;
+}
+
+.topicos__lista {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.topicos__lista__item {
+    margin: 2rem 0.5rem;
+}
+
+.topicos__lista__item__link {
+    text-decoration: none;
+    color: var(--branco);
+    font-size: var(--fonte-secundaria);
+    font-weight: 700;
+    background-color: var(--titulo-laranja);
+    padding: 1rem 1.3rem;
+}
+

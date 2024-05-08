@@ -1,0 +1,12 @@
+hr {
+    margin: 0;
+}
+
+.rodape {
+    background-color: var(--cor-de-fundo-footer);
+}
+
+.rodape__titulo {
+    margin: 1rem 0 0 1.5rem;
+    padding-bottom: 1.5rem;
+}

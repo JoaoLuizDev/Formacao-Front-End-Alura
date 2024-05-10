@@ -28,9 +28,21 @@
 .topicos__lista__item__link {
     text-decoration: none;
     color: var(--branco);
-    font-size: var(--fonte-secundaria);
+    font-size: var(--fonte-size-secundaria);
     font-weight: 700;
     background-color: var(--titulo-laranja);
     padding: 1rem 1.3rem;
 }
 
+@media screen and (min-width: 1024px) {
+    .topicos__titulo {
+        font-size: var(--fonte-size-titulo-topicos-contato);
+        padding-top: 1rem;
+    }
+
+    .topicos__lista__item__link {
+        font-size: var(--fonte-size-titulo-topicos-contato);
+    }
+    
+    
+}

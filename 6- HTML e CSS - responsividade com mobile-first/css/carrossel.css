@@ -48,7 +48,7 @@
 }
 
 .descrição__titulo__texto {
-    font-size: var(--fonte-secundaria);
+    font-size: var(--fonte-size-secundaria);
     margin-right: 2.375rem;
 }
 
@@ -75,3 +75,29 @@
     padding: 1rem 2.2rem;
     color: var(--branco);
 }
+
+@media screen and (min-width: 1024px) {
+    .carrossel__titulo {
+        font-size: var(--fonte-size-titulo-carrossel);
+        padding-top: 4rem;
+        padding-bottom: 1rem;
+    }
+
+    .swiper {
+        padding-top: 1rem;
+        width: 60%;
+    }
+
+    .swiper-button-prev,
+    .swiper-button-next {
+        display: block;
+        top: 60%;
+    }
+
+    .card {
+        width: 45%;
+        margin: 3rem auto;
+    }
+
+}
+    

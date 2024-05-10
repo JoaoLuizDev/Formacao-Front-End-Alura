@@ -10,14 +10,20 @@
     --cor-de-fundo: #EBECEE;
     --cor-de-fundo-footer: #F9F9F9;
     --branco: #FFFFFF;
+    --preto: #000000;
     --titulo-laranja: #EB9B00;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --azul-h2: #002F52;
     
     --fonte-principal: "Poppins";
+    --fonte-secundaria: "Josefin Sans"
 
     --fonte-size-h2: 1.1rem;
-    --fonte-secundaria: 0.875rem;
+    --fonte-size-secundaria: 0.875rem;
+    --fonte-size-titulo: 1.875rem;
+    --fonte-size-titulo-banner: 2rem;
+    --fonte-size-titulo-carrossel: 1.625rem;
+    --fonte-size-titulo-topicos-contato: 1.5rem;
 }
 
 body {

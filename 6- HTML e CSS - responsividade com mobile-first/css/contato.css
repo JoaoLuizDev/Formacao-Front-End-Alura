@@ -73,5 +73,26 @@
     .faixa {
         display: none;
     }
-    
+}
+
+@media screen and (min-width: 1728px) {
+    .contato {
+        padding: 3em 20vw 1.5em 20vw;
+    }  
+
+    .contato__email__titulo {
+        font-weight: 500;
+    }
+
+    .contato__descrição {
+        margin: 0;
+        width: 30%;
+    }
+
+    .contato__email__cadastro {
+        width: 35%;
+        margin-left: 5rem;
+    }
+
+
 }

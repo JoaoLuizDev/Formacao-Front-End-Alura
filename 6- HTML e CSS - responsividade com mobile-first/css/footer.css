@@ -35,6 +35,7 @@ hr {
     .rodape__lista__titulo {
         font-size: var(--fonte-size-secundaria);
         color: var(--item-titulo-rodape);
+        text-transform: uppercase;
     }
 
     .rodape__lista__item {
@@ -48,5 +49,16 @@ hr {
         text-decoration: none;
         color: var(--item-rodape);
         margin-left: 0.6rem;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .rodape__lista {
+        border-left: 1px solid var(--item-titulo-rodape);
+        padding-left: 1rem;
+    }
+
+    .rodape__titulo {
+        
     }
 }

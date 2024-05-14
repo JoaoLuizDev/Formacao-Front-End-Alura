@@ -1,6 +1,6 @@
 <h1 align="center">Curso 6</h1> 
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=orange&style=for-the-badge)
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 
 **Curso:**  HTML e CSS: responsividade com mobile-first

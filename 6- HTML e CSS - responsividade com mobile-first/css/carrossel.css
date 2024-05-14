@@ -88,16 +88,69 @@
         width: 60%;
     }
 
-    .swiper-button-prev,
+    .swiper-button-next, .swiper-button-prev {
+        width: auto !important;
+        height: auto !important;
+    }
+
+    .swiper-button-prev {
+        display: block;
+        top: 60%;
+        content: url("../assets/FABprev.png");
+    }
+
     .swiper-button-next {
         display: block;
         top: 60%;
+        content: url("../assets/FABnext.png");
     }
 
     .card {
         width: 45%;
         margin: 3rem auto;
     }
-
 }
-    
+
+@media screen and (min-width: 1728px) {
+    .carrossel__titulo {
+        padding-top: 3rem;
+    }
+
+    .carrossel__container {
+        display: flex;
+        margin: 1em 20vw 5em 20vw;
+        align-items: center;
+    }
+
+    .swiper-pagination {
+        margin: 1rem 0;
+    }
+
+    .swiper {
+        width: 50%;
+    }
+
+    .card {
+        margin: 2rem 0 0 3rem;
+        width: 60%;
+    }
+
+    .descrição__titulo {
+        font-size: var(--fonte-size-titulo-banner);
+        font-weight: 700;
+        margin-bottom: 1rem;
+    } 
+
+    .descrição__titulo__livro {
+        margin-bottom: 1rem;
+    }
+
+    .swiper-wrapper {
+        padding-right: 0.5rem ;
+    }
+
+    .swiper-button-next, .swiper-button-prev {
+        width: auto !important;
+        height: auto !important;
+    }
+}

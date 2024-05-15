@@ -5,7 +5,7 @@
 
 Este repositório contém os trabalhos práticos realizados nos cursos de front-end da Alura. Cada curso possui sua própria pasta, onde você encontrará os arquivos HTML e CSS correspondentes aos projetos desenvolvidos.
 
-![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=orange&style=for-the-badge)
 
 
 ---
@@ -19,9 +19,15 @@ Este repositório contém os trabalhos práticos realizados nos cursos de front-
 | | [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/4-%20HTML%20e%20CSS%20-%20trabalhando%20com%20responsividade%20e%20publica%C3%A7%C3%A3o%20de%20projetos) | 6hs | ✔️ | 28/04/2024 |
 | | [HTML e CSS - praticando HTML e CSS](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/5-%20HTML%20e%20CSS%20-%20praticando%20HTMLCSS) | 8hs | ✔️ | 02/05/2024 |
 | | [HTML e CSS: responsividade com mobile-first](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/6-%20HTML%20e%20CSS%20-%20responsividade%20com%20mobile-first) | 12hs | ✔️ | 12/05/2023 |
+| **CSS: aprofunde em estilos** | CSS: Flexbox e layouts responsivos | 6hs| ✔️ | 13/05/2024 |
+| | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
+| | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
+| | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
+| | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
 
 
 Legenda:  
+⏯️ - Aguardando
 🕛 - Em andamento  
 ✔️ - Concluído  
 
@@ -36,6 +42,13 @@ Legenda:
   </div>
   
 <br>
+
+---
+### Páginas desenvolvidas:
+
+- <a href="https://vercel.com/joao-luizs-projects-3c21440e/formacao-front-end-alura-curso-4/39nM5Gep3mSUuM6X2QatTZF1w8Wx">Currículo Dev</a> 
+- <a href="https://vercel.com/joao-luizs-projects-3c21440e/formacao-front-end-alura-curso-5/5fDuFVMJ5qZqCNLukvdCPUdJYRmr">Página Alura Combo+</a>
+- <a href="https://vercel.com/joao-luizs-projects-3c21440e/formacao-front-end-alura">Página AluraBooks</a>
 
 ---
 ### Contato:

@@ -20,10 +20,10 @@ Este repositório contém os trabalhos práticos realizados nos cursos de front-
 | | [HTML e CSS - praticando HTML e CSS](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/5-%20HTML%20e%20CSS%20-%20praticando%20HTMLCSS) | 8hs | ✔️ | 02/05/2024 |
 | | [HTML e CSS: responsividade com mobile-first](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/6-%20HTML%20e%20CSS%20-%20responsividade%20com%20mobile-first) | 12hs | ✔️ | 12/05/2023 |
 | **CSS: aprofunde em estilos** | CSS: Flexbox e layouts responsivos | 6hs| ✔️ | 13/05/2024 |
+| | CSS: construindo layouts com Grid | 8hs | ⏯️ | |
 | | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
-| | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
-| | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
-| | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
+| | Tailwind CSS: estilizando a sua página com classes utilitárias | 8hs | ⏯️ | |
+| | Praticando CSS: Grid e Flexbox | 8hs | ⏯️ | |
 
 
 Legenda:  

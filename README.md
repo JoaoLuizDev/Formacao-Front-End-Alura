@@ -3,7 +3,7 @@
 ---
 ### Repositório de Cursos Front-end
 
-Este repositório contém os trabalhos práticos realizados nos cursos de front-end da Alura. Cada curso possui sua própria pasta, onde você encontrará os arquivos HTML e CSS correspondentes aos projetos desenvolvidos.
+Este repositório foi elaborado para organizar os materiais, projetos, informações e trabalhos práticos realizados nos cursos de front-end da Alura. Cada curso possui seu próprio repositório, onde você encontrará mais informações sobre projeto.
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=orange&style=for-the-badge)
 
@@ -13,13 +13,13 @@ Este repositório contém os trabalhos práticos realizados nos cursos de front-
 
 | FORMAÇÃO | Curso | Carga Horária | Progresso | Data Conclusão |
 |----------|-------|:---------------:|:-----------:|:----------------:|
-| **A partir do zero: HTML e CSS para projetos web** | [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/1-%20HTML%20e%20CSS%20-%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags) | 8hs | ✔️ | 24/04/2024 |
-| | [HTML e CSS:Classes, posicionamento e Flexbox](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/2-%20HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox) | 8hs | ✔️ | 25/04/2024 |
-| | [HTML e CSS: cabeçalho, footer e variáveis CSS](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/3-%20HTML%20e%20CSS%20-%20cabe%C3%A7alho%2C%20footer%20e%20vari%C3%A1veis%20CSS) | 6hs | ✔️ | 27/04/2024 |
-| | [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/4-%20HTML%20e%20CSS%20-%20trabalhando%20com%20responsividade%20e%20publica%C3%A7%C3%A3o%20de%20projetos) | 6hs | ✔️ | 28/04/2024 |
-| | [HTML e CSS - praticando HTML e CSS](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/5-%20HTML%20e%20CSS%20-%20praticando%20HTMLCSS) | 8hs | ✔️ | 02/05/2024 |
-| | [HTML e CSS: responsividade com mobile-first](https://github.com/JoaoLuizDev/Formacao-Front-End-Alura/tree/main/6-%20HTML%20e%20CSS%20-%20responsividade%20com%20mobile-first) | 12hs | ✔️ | 12/05/2023 |
-| **CSS: aprofunde em estilos** | CSS: Flexbox e layouts responsivos | 6hs| ✔️ | 13/05/2024 |
+| **A partir do zero: HTML e CSS para projetos web** | [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/JoaoLuizDev/formacao-front-end-alura-curriculo) | 8hs | ✔️ | 24/04/2024 |
+| | [HTML e CSS:Classes, posicionamento e Flexbox](https://github.com/JoaoLuizDev/formacao-front-end-alura-curriculo) | 8hs | ✔️ | 25/04/2024 |
+| | [HTML e CSS: cabeçalho, footer e variáveis CSS](https://github.com/JoaoLuizDev/formacao-front-end-alura-curriculo) | 6hs | ✔️ | 27/04/2024 |
+| | [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://github.com/JoaoLuizDev/formacao-front-end-alura-curriculo) | 6hs | ✔️ | 28/04/2024 |
+| | [HTML e CSS - praticando HTML e CSS](https://github.com/JoaoLuizDev/formacao-front-end-alura-combo) | 8hs | ✔️ | 02/05/2024 |
+| | [HTML e CSS: responsividade com mobile-first](https://github.com/JoaoLuizDev/formacao-front-end-alura-aluraplay) | 12hs | ✔️ | 12/05/2023 |
+| **CSS: aprofunde em estilos** | [CSS: Flexbox e layouts responsivos](https://github.com/JoaoLuizDev/formacao-front-end-alura-alurabooks) | 6hs| ✔️ | 13/05/2024 |
 | | CSS: construindo layouts com Grid | 8hs | ⏯️ | |
 | | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
 | | Tailwind CSS: estilizando a sua página com classes utilitárias | 8hs | ⏯️ | |
@@ -46,9 +46,21 @@ Legenda:
 ---
 ### Páginas desenvolvidas:
 
-- <a href="https://vercel.com/joao-luizs-projects-3c21440e/formacao-front-end-alura-curso-4/39nM5Gep3mSUuM6X2QatTZF1w8Wx">Currículo Dev</a> 
-- <a href="https://vercel.com/joao-luizs-projects-3c21440e/formacao-front-end-alura-curso-5/5fDuFVMJ5qZqCNLukvdCPUdJYRmr">Página Alura Combo+</a>
-- <a href="https://vercel.com/joao-luizs-projects-3c21440e/formacao-front-end-alura">Página AluraBooks</a>
+**- Curriculo**
+  - Link Vercel: https://formacao-front-end-alura.vercel.app/
+  - Link GitHub Pages: https://joaoluizdev.github.io/formacao-front-end-alura-curriculo/
+
+**- Combo+**
+  - Link Vercel: https://formacao-front-end-alura-combo.vercel.app/
+  - Link GitHub Pages: https://joaoluizdev.github.io/formacao-front-end-alura-combo/
+
+**- AluraPlay**
+  - Link Vercel: https://formacao-front-end-alura-aluraplay.vercel.app/
+  - Link GitHub Pages: https://joaoluizdev.github.io/formacao-front-end-alura-aluraplay/
+
+**- AluraBooks**
+  - Link Vercel: https://formacao-front-end-alura-alurabooks.vercel.app/
+  - Link GitHub Pages https://joaoluizdev.github.io/formacao-front-end-alura-alurabooks/  
 
 ---
 ### Contato:

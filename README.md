@@ -24,7 +24,9 @@ Este repositório foi elaborado para organizar os materiais, projetos, informaç
 | | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
 | | Tailwind CSS: estilizando a sua página com classes utilitárias | 8hs | ⏯️ | |
 | | Praticando CSS: Grid e Flexbox | 8hs | ⏯️ | |
-| **#7DaysOfCode**  | [Desafio HTML e CSS](https://github.com/JoaoLuizDev/desafio-alura-html-css) | 7hs | ⏯️ | |
+| **#7DaysOfCode**  | [Desafio HTML e CSS](https://github.com/JoaoLuizDev/desafio-alura-html-css) | 7hs | ✔️ | 22/05/2024 |
+| | [Desafio HTML e CSS - Netflix] | 7hs | ⏯️ | |
+| | [Desafio HTML e CSS - Linkedin] | 7hs | ⏯️ | |
 
 
 

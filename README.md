@@ -31,7 +31,7 @@ Este repositório foi elaborado para organizar os materiais, projetos, informaç
 
 
 Legenda:  
-⏯️ - Aguardando
+⏯️ - Aguardando  
 🕛 - Em andamento  
 ✔️ - Concluído  
 

@@ -25,7 +25,7 @@ Este repositório foi elaborado para organizar os materiais, projetos, informaç
 | | Tailwind CSS: estilizando a sua página com classes utilitárias | 8hs | ⏯️ | |
 | | Praticando CSS: Grid e Flexbox | 8hs | ⏯️ | |
 | **#7DaysOfCode**  | [Desafio HTML e CSS](https://github.com/JoaoLuizDev/desafio-alura-html-css) | 7hs | ✔️ | 22/05/2024 |
-| | [Desafio HTML e CSS - Netflix] | 7hs | ⏯️ | |
+| | [Desafio HTML e CSS - Netflix] | 7hs | 🕛 | |
 | | [Desafio HTML e CSS - Linkedin] | 7hs | ⏯️ | |
 
 
@@ -51,21 +51,25 @@ Legenda:
 ### Páginas desenvolvidas:
 
 **- Curriculo**
-  - Link Vercel: https://formacao-front-end-alura.vercel.app/
-  - Link GitHub Pages: https://joaoluizdev.github.io/formacao-front-end-alura-curriculo/
+  - Link Vercel: [Clique aqui](https://formacao-front-end-alura.vercel.app/)
+  - Link GitHub Pages: [Clique aqui](https://joaoluizdev.github.io/formacao-front-end-alura-curriculo/)
 
 **- Combo+**
-  - Link Vercel: https://formacao-front-end-alura-combo.vercel.app/
-  - Link GitHub Pages: https://joaoluizdev.github.io/formacao-front-end-alura-combo/
+  - Link Vercel: [Clique aqui](https://formacao-front-end-alura-combo.vercel.app/)
+  - Link GitHub Pages: [Clique aqui](https://joaoluizdev.github.io/formacao-front-end-alura-combo/)
 
 **- AluraPlay**
-  - Link Vercel: https://formacao-front-end-alura-aluraplay.vercel.app/
-  - Link GitHub Pages: https://joaoluizdev.github.io/formacao-front-end-alura-aluraplay/
+  - Link Vercel: [Clique aqui](https://formacao-front-end-alura-aluraplay.vercel.app/)
+  - Link GitHub Pages: [Clique aqui](https://joaoluizdev.github.io/formacao-front-end-alura-aluraplay/)
 
 **- AluraBooks**
-  - Link Vercel: https://formacao-front-end-alura-alurabooks.vercel.app/
-  - Link GitHub Pages https://joaoluizdev.github.io/formacao-front-end-alura-alurabooks/  
+  - Link Vercel: [Clique aqui](https://formacao-front-end-alura-alurabooks.vercel.app/)
+  - Link GitHub Pages: [Clique aqui](https://joaoluizdev.github.io/formacao-front-end-alura-alurabooks/)  
 
+**- 7DaysOfCode - Desafio HTML e CSS**  
+  - Deploy GitHub Pages: [Clique aqui](https://joaoluizdev.github.io/desafio-alura-html-css/)  
+  - Deploy Vercel: [Clique aqui](https://desafio-alura-html-css.vercel.app/)
+  - 
 ---
 ### Contato:
   <div style="display=inline-block"> 

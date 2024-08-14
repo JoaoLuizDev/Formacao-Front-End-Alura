@@ -5,7 +5,7 @@
 
 Este repositório foi elaborado para organizar os materiais, projetos, informações e trabalhos práticos realizados nos cursos de front-end da Alura. Cada curso possui seu próprio repositório, onde você encontrará mais informações sobre projeto.
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=orange&style=for-the-badge)
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 
 ---

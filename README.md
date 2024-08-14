@@ -20,21 +20,7 @@ Este repositório foi elaborado para organizar os materiais, projetos, informaç
 | | [HTML e CSS - praticando HTML e CSS](https://github.com/JoaoLuizDev/formacao-front-end-alura-combo) | 8hs | ✔️ | 02/05/2024 |
 | | [HTML e CSS: responsividade com mobile-first](https://github.com/JoaoLuizDev/formacao-front-end-alura-aluraplay) | 12hs | ✔️ | 12/05/2023 |
 | **CSS: aprofunde em estilos** | [CSS: Flexbox e layouts responsivos](https://github.com/JoaoLuizDev/formacao-front-end-alura-alurabooks) | 6hs| ✔️ | 13/05/2024 |
-| | CSS: construindo layouts com Grid | 8hs | ⏯️ | |
-| | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
-| | Tailwind CSS: estilizando a sua página com classes utilitárias | 8hs | ⏯️ | |
-| | Praticando CSS: Grid e Flexbox | 8hs | ⏯️ | |
 | **#7DaysOfCode**  | [Desafio HTML e CSS](https://github.com/JoaoLuizDev/desafio-alura-html-css) | 7hs | ✔️ | 22/05/2024 |
-| | [Desafio HTML e CSS - Netflix] | 7hs | 🕛 | |
-| | [Desafio HTML e CSS - Linkedin] | 7hs | ⏯️ | |
-
-
-
-Legenda:  
-⏯️ - Aguardando  
-🕛 - Em andamento  
-✔️ - Concluído  
-
 
 ---
 ### Ferramentas e tecnologias utilizadas:

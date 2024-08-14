@@ -55,7 +55,7 @@ Este repositório foi elaborado para organizar os materiais, projetos, informaç
 **- 7DaysOfCode - Desafio HTML e CSS**  
   - Deploy GitHub Pages: [Clique aqui](https://joaoluizdev.github.io/desafio-alura-html-css/)  
   - Deploy Vercel: [Clique aqui](https://desafio-alura-html-css.vercel.app/)
-  - 
+
 ---
 ### Contato:
   <div style="display=inline-block"> 

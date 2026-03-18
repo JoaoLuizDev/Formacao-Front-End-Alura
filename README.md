@@ -5,7 +5,7 @@
 
 Este repositório foi elaborado para organizar os materiais, projetos, informações e trabalhos práticos realizados nos cursos de front-end da Alura. Cada curso possui seu próprio repositório, onde você encontrará mais informações sobre projeto.
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=orange&style=for-the-badge)
+![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=green&style=for-the-badge)
 
 
 ---
@@ -20,10 +20,6 @@ Este repositório foi elaborado para organizar os materiais, projetos, informaç
 | | [HTML e CSS - praticando HTML e CSS](https://github.com/JoaoLuizDev/formacao-front-end-alura-combo) | 8hs | ✔️ | 02/05/2024 |
 | | [HTML e CSS: responsividade com mobile-first](https://github.com/JoaoLuizDev/formacao-front-end-alura-aluraplay) | 12hs | ✔️ | 12/05/2023 |
 | **CSS: aprofunde em estilos** | [CSS: Flexbox e layouts responsivos](https://github.com/JoaoLuizDev/formacao-front-end-alura-alurabooks) | 6hs| ✔️ | 13/05/2024 |
-| | CSS: construindo layouts com Grid | 8hs | ⏯️ | |
-| | SASS e CSS: estilizando um site | 8hs | ⏯️ | |
-| | Tailwind CSS: estilizando a sua página com classes utilitárias | 8hs | ⏯️ | |
-| | Praticando CSS: Grid e Flexbox | 8hs | ⏯️ | |
 | **#7DaysOfCode**  | [Desafio HTML e CSS](https://github.com/JoaoLuizDev/desafio-alura-html-css) | 7hs | ⏯️ | |
 
 
